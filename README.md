@@ -1,10 +1,10 @@
-# Sreenanda Sai  Data Science Portfolio
-<!-- Sreenanda Sai Portfolio -->
+# Pradeep  Data Science Portfolio
+<!-- Pradeep Portfolio -->
 
  This portfolio is created using html,css,javascript and Bootstrap.In this portfolio I have added my data science projects, resume, my tech skills and contact information.
     
   ## Team Members :-
-  -Sreenanda Sai
+  -Pradeep
   
   # Deployed Link :-
     https://sreenandasai-dasari.github.io/Portfolio
