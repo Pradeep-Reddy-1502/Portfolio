@@ -7,7 +7,7 @@
   -Pradeep
   
   # Deployed Link :-
-    https://sreenandasai-dasari.github.io/Portfolio
+    https://pradeep-reddy-1502.github.io/Portfolio/
     
   
 
